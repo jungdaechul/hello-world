@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Hi ll !
+daechul here, I like imaging and signals on the monitors.
